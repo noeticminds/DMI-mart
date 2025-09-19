@@ -1,0 +1,4 @@
+2025-08-20T03:32:15+00:00 INFO Processing Order id 8348 to send Whatsapp Utility messages
+2025-08-20T03:32:15+00:00 INFO Messages Post API call for Order id 8348 skipped due to no active event config
+2025-08-20T10:40:04+00:00 INFO Processing Order id 8348 to send Whatsapp Utility messages
+2025-08-20T10:40:04+00:00 INFO Messages Post API call for Order id 8348 skipped due to no active event config

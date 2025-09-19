@@ -1,0 +1,11 @@
+.wcfv-wrapper .zoomImg {
+  display: none !important;
+}
+
+.plyr--stopped .plyr__controls {
+  display: none;
+}
+
+.woocommerce-product-gallery__wrapper {
+  width: 100%;
+}

@@ -1,0 +1,11 @@
+@mixin common-text-styles {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+@mixin header-text-styles {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+}

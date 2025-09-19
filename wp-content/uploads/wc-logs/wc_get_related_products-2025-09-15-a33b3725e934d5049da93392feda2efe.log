@@ -1,0 +1,8 @@
+2025-09-15T00:58:45+00:00 ERROR Invalid limit type passed to wc_get_related_products. Expected integer, got string with value: "8"
+2025-09-15T05:09:07+00:00 ERROR Invalid limit type passed to wc_get_related_products. Expected integer, got string with value: "8"
+2025-09-15T06:42:57+00:00 ERROR Invalid limit type passed to wc_get_related_products. Expected integer, got string with value: "8"
+2025-09-15T09:23:23+00:00 ERROR Invalid limit type passed to wc_get_related_products. Expected integer, got string with value: "8"
+2025-09-15T10:51:26+00:00 ERROR Invalid limit type passed to wc_get_related_products. Expected integer, got string with value: "8"
+2025-09-15T12:27:56+00:00 ERROR Invalid limit type passed to wc_get_related_products. Expected integer, got string with value: "8"
+2025-09-15T20:26:23+00:00 ERROR Invalid limit type passed to wc_get_related_products. Expected integer, got string with value: "8"
+2025-09-15T21:45:31+00:00 ERROR Invalid limit type passed to wc_get_related_products. Expected integer, got string with value: "8"

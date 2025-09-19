@@ -1,0 +1,37 @@
+# Translation of Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release) in Hindi
+# This file is distributed under the same license as the Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-22 08:08:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: hi_IN\n"
+"Project-Id-Version: Plugins - WPCode &#8211; Insert Headers and Footers + Custom Code Snippets &#8211; WordPress Code Manager - Stable (latest release)\n"
+
+#. translators: %s: The `</body>` tag
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:167
+msgid "These scripts will be printed above the closing %s tag."
+msgstr "ये स्क्रिप्ट समापन %s टैग के ऊपर मुद्रित की जाएंगी।"
+
+#. translators: %s: The `<head>` tag
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:162
+msgid "These scripts will be printed just below the opening %s tag."
+msgstr "ये स्क्रिप्ट प्रारंभिक %s टैग के नीचे मुद्रित की जाएंगी।"
+
+#. translators: %s: The `<head>` tag
+#: includes/admin/pages/class-wpcode-admin-page-headers-footers.php:157
+msgid "These scripts will be printed in the %s section."
+msgstr "इन स्क्रिप्ट को %s अनुभाग में मुद्रित किया जाएगा।"
+
+#: includes/admin/class-wpcode-admin-page-loader.php:206
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:53
+#: includes/class-wpcode-admin-bar-info.php:408
+msgid "Settings"
+msgstr "सेटिंग"
+
+#: includes/admin/pages/class-wpcode-admin-page-settings.php:88
+msgid "Settings Saved."
+msgstr "सेटिंग्स को सहेजा गया।"

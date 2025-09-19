@@ -1,0 +1,281 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TrackFree de\n"
+"POT-Creation-Date: 2018-06-04 19:52+0530\n"
+"PO-Revision-Date: 2025-01-07 11:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+
+msgid "View tracking"
+msgstr "Tracking anzeigen"
+
+msgid "Add new"
+msgstr "Neue"
+
+msgid "Tracking Number"
+msgstr "Verfolgungsnummer"
+
+msgid "Tracking number"
+msgstr "Verfolgungsnummer"
+
+msgid "Invalid tracking number"
+msgstr "Ungültige Tracking-Nummer"
+
+msgid "Courier"
+msgstr "Kurier"
+
+msgid "Connect with TrackFree"
+msgstr "Mit TrackFree verbinden"
+
+msgid "Shipment Status"
+msgstr "Sendungsstatus"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "STATUS"
+msgstr "STATUS"
+
+msgid "FEEDBACK"
+msgstr "FEEDBACK"
+
+msgid "Satisfied"
+msgstr "Zufrieden"
+
+msgid "Not satisfied"
+msgstr "Nicht zufrieden"
+
+msgid "Change"
+msgstr "Verändern"
+
+msgid "Delivered on"
+msgstr "Geliefert am"
+
+msgid "Estimated delivery on"
+msgstr "Voraussichtliche Lieferung am"
+
+msgid "Shipping Activity"
+msgstr "Versandaktivität"
+
+msgid "Contact Carrier"
+msgstr "Botendienst"
+
+msgid "See all shipping activity"
+msgstr "Alle Versandaktivitäten anzeigen"
+
+msgid "Hide all shipping activity"
+msgstr "Alle Versandaktivitäten ausblenden"
+
+msgid "No track details available"
+msgstr "Keine Trackdetails verfügbar"
+
+msgid "No estimated delivery date"
+msgstr "Kein voraussichtliches Lieferdatum"
+
+msgid "This tracking does not exist"
+msgstr "Dieses Tracking existiert nicht"
+
+msgid "This tracking number already exists"
+msgstr "Diese Verfolgungsnummer existiert bereits"
+
+msgid "You can add only up to 3 shipments"
+msgstr "Sie können nur bis zu 3 Sendungen hinzufügen"
+
+msgid "Invalid user"
+msgstr "Ungültiger Benutzer"
+
+msgid "Your credit limit is over. Please upgrade"
+msgstr "Ihr Kreditlimit ist überschritten. Bitte upgraden"
+
+msgid "Preferred couriers updated successfully"
+msgstr "Bevorzugte Botendienste wurden erfolgreich aktualisiert"
+
+msgid "Your app is not verified. Click verify link and activate your app in your mail. Please refresh this page if you have already verified."
+msgstr "Ihre App wurde nicht verifiziert. Klicken Sie auf den Verifikationslink und aktivieren Sie Ihre App mit Ihrem E-Mail-Konto. Bitte aktualisieren Sie diese Seite, wenn Sie die App bereits verifiziert haben."
+
+msgid "Preferred Carrier"
+msgstr "Bevorzugter Spediteur"
+
+msgid "The new address will not be active until confirmed."
+msgstr "Die neue Adresse ist erst aktiv, wenn sie bestätigt wurde."
+
+msgid "Preview"
+msgstr "Vorschau"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Action"
+msgstr "Aktion"
+
+msgid "<strong>ERROR</strong>: The email address is not correct."
+msgstr "<strong>FEHLER</strong>: Die E-Mail-Adresse ist nicht korrekt."
+
+msgid "This account not verified or locked. Please contact TrackFree support team."
+msgstr "Dieser Account wurde nicht überprüft oder gesperrt. Bitte kontaktiere das TrackFree Support Team."
+
+msgid "App already installed. Please contact TrackFree support team."
+msgstr "App ist bereits installiert. Bitte kontaktiere das TrackFree Support Team."
+
+msgid "Something went wrong. Please contact TrackFree support team."
+msgstr "Etwas ist schief gelaufen. Bitte kontaktiere das TrackFree Support Team."
+
+msgid "View shipment details"
+msgstr "Sendungsdetails anzeigen"
+
+msgid "Invalid authentication"
+msgstr "Ungültige Authentifizierung"
+
+msgid "Invalid request"
+msgstr "Ungültige Anfrage"
+
+msgid "Shipment test mail sent successfully"
+msgstr "Versandtestmail erfolgreich versendet"
+
+msgid "Sorry! Shipment test mail cannot be sent because no tracking number is available."
+msgstr "Es tut uns leid! Versandtestmail kann nicht versendet werden, da keine Sendungsverfolgungsnummer verfügbar ist."
+
+msgid "%1$s is not a valid email address"
+msgstr "%1$s ist keine gültige E-Mail-Adresse"
+
+msgid "General settings updated successfully"
+msgstr "Die allgemeinen Einstellungen wurden erfolgreich aktualisiert"
+
+msgid "Account already exists with this email address"
+msgstr "Konto existiert bereits mit dieser E-Mail-Adresse"
+
+msgid "All fields required"
+msgstr "Alle Felder benötigt"
+
+msgid "Courier not supported"
+msgstr "Kurier nicht unterstützt"
+
+msgid "Ship with confidence and Sell more!"
+msgstr "Versenden Sie mit Zuversicht und verkaufen Sie mehr!"
+
+msgid "Delight your customers with an exceptional post-purchase experience and drive more sales."
+msgstr "Begeistern Sie Ihre Kunden mit einem außergewöhnlichen Erlebnis nach dem Kauf und steigern Sie den Umsatz."
+
+msgid "Monitor all shipments in one go"
+msgstr "Überwachen Sie alle Sendungen auf einmal"
+
+msgid "Keep customers informed proactively"
+msgstr "Halten Sie Kunden proaktiv auf dem Laufenden"
+
+msgid "Provide a branded experience"
+msgstr "Bieten Sie ein Markenerlebnis"
+
+msgid "Get Started"
+msgstr "Fangen Sie an"
+
+msgid "Enter your email address"
+msgstr "Geben sie ihre E-Mailadresse ein"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "OR"
+msgstr "ODER"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Carrier"
+msgstr "Kurier"
+
+msgid "Shipment"
+msgstr "Sendung"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Pending"
+msgstr "Ausstehend"
+
+msgid "Expired"
+msgstr "Abgelaufen"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Order"
+msgstr "Befehl"
+
+msgid "Destination"
+msgstr "Ziel"
+
+msgid "shipments"
+msgstr "sendungen"
+
+msgid "shipment"
+msgstr "sendung"
+
+msgid "Couriers"
+msgstr "Kuriere"
+
+msgid "Details"
+msgstr "Einzelheiten"
+
+msgid "Created"
+msgstr "Erstellt"
+
+msgid "Preferred Courier"
+msgstr "Bevorzugter Kurier"
+
+msgid "Preferred couriers"
+msgstr "Bevorzugte Botendienste"
+
+msgid "Change order status as"
+msgstr "Auftragsstatus ändern als"
+
+msgid "Optional"
+msgstr "Optional"
+
+msgid "Select"
+msgstr "Auswählen"
+
+msgid "Automatic Matching"
+msgstr "Automatisches Matching"
+
+msgid "Add tracking number"
+msgstr "Trackingnummer hinzufügen"
+
+msgid "Add tracking"
+msgstr "Tracking hinzufügen"
+
+msgid "Edit tracking"
+msgstr "Tracking bearbeiten"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "All items have been fulfilled"
+msgstr "Alle Artikel wurden erfüllt"
+
+msgid "Product info"
+msgstr "Produktinfo"
+
+msgid "Empty line items"
+msgstr "Leere Positionen"
+
+msgid "days"
+msgstr "Tage"
+
+msgid "day"
+msgstr "Tag"
+
+msgid "You have exceeded your monthly credit usage. Upgrade to a higher plan to continue using TrackFree. You can upgrade <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Sie haben Ihr monatliches Guthaben überschritten. Upgrade auf einen höheren Plan, um TrackFree weiterhin zu nutzen. Sie können <a href=\"%s\" target=\"_blank\">hier</a> upgraden."

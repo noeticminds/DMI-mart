@@ -1,0 +1,11 @@
+.wcfv-browse-btn {
+  margin-top: -10px !important;
+}
+
+#woocommerce-product-data ul.wc-tabs li.wcfv_options a::before {
+  content: "\f236" !important;
+} 
+
+.hidden {
+  display: none;
+}
